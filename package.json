@@ -1,5 +1,5 @@
 {
-  "name": "sails-zg",
+  "name": "sails",
   "author": "Mike McNeil <mike@balderdash.co>",
   "version": "0.10.0-rc6",
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
